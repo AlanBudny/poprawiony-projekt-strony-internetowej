@@ -1,0 +1,17 @@
+.film {
+    display: flex;
+    margin-bottom: 2rem;
+  }
+  
+  .film img {
+    width: 150px; 
+    margin-right: 1rem;
+  }
+  
+  .film-description {
+    flex: 1;
+  }
+  
+  .film-description h3 {
+    margin-top: 0;
+  }
